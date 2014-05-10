@@ -7,3 +7,5 @@ worlds:
     effects:
       slowdig:
         type: SLOW_DIGGING
+      hunger:
+        type: HUNGER
