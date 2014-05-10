@@ -1,0 +1,9 @@
+worlds:
+  world_nether:
+    explosion_interval: 120
+    explosion_min_power: 4
+    explosion_max_power: 8
+    explosion_max_distance: 16
+    effects:
+      slowdig:
+        type: SLOW_DIGGING

@@ -1,0 +1,9 @@
+#
+# NastyNether
+# Bukkit plug-in connector file.
+#
+name: NastyNether
+main: com.untamedears.nastynether.NastyNether
+version: 0.1
+description: Makes the Nether (or other configured world) a much nastier place to inhabit.
+author: pruby
